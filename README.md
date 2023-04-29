@@ -12,9 +12,14 @@ A malicious python program executable or malware, when run on a host system slow
 - To test this safely, run the following commands in a isolated OS terminal:
 
 ```bash
-cd dir
+cd dist
 ./run
 ```
+or
+```python3
+python3 run.py
+```
+
 # Future developments:
 - A executable for windows will be included further.
 
